@@ -24,7 +24,7 @@ Setup Clone this repository. Open index.html in your web browser.
 
 ##Hosted 
 
-Web App https://github.com/Akilesh6088/Tax-Calculator/
+Web App https : https://akilesh6088.github.io/Tax/Project/index.html
 
 ##Screenshots
 
